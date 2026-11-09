@@ -1,4 +1,4 @@
-# Online Retail Market Analysis and Product Recommendation
+# Online Retail Market Basket Analysis and Product Recommendation
 
 **Project area:** Data Mining  
 **Technique:** Association Rule Mining  
